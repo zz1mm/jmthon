@@ -8,10 +8,6 @@
 ## شكـرا لكـم 
 
 
-## المطـورين 
+this userbot is import of catuserbot and translate to arabic
 
-[jmthon source](https://t.me/jmthon)
-
-[MUHAMMAD](https://t.me/RR9R7)
-
-[JASEM](https://t.me/SBB_B)
+https://t.me/catuserbot_support
